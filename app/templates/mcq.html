@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Generated MCQ</title>
+</head>
+<body>
+    <h1>Generated MCQ</h1>
+    <p><strong>Question:</strong> {{ question }}</p>
+    <p><strong>Options:</strong></p>
+    <ul>
+        {% for option in options %}
+        <li>{{ option }}</li>
+        {% endfor %}
+    </ul>
+    <p><strong>Correct Answer:</strong> {{ correct_answer }}</p>
+</body>
+</html>
