@@ -11,7 +11,7 @@ An AI-powered MCQ generator that creates questions based on SOLO Taxonomy levels
 
 ## Prerequisites
 
-- Python 3.9+
+- Python 3.9+ (I used Python 3.11)
 - Google Gemini API key
 - Docker (optional)
 
