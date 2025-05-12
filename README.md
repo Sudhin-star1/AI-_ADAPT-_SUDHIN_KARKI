@@ -1,1 +1,1 @@
-# AI-_ADAPT-_SUDHIN_KARKI
+# AI MCQ Generator
